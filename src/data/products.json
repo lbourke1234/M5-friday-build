@@ -1,1 +1,72 @@
-[{"description":"shoes","brand":"adidas","imageUrl":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.howtogeek.com%2Fthumbcache%2F2%2F200%2F40e2879242a0f643e552094ec70ad8e9%2Fwp-content%2Fuploads%2F2018%2F06%2Fshutterstock_1006988770.png&f=1&nofb=1","price":10,"category":"Thriller","createdAt":"2022-05-13T09:09:14.837Z","id":"fvk8ocl347x045","name":"Leon","updatedAt":"2022-05-13T09:21:47.913Z"},{"name":"LeRasmuson","description":"shoes","brand":"nike","imageUrl":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.howtogeek.com%2Fthumbcache%2F2%2F200%2F40e2879242a0f643e552094ec70ad8e9%2Fwp-content%2Fuploads%2F2018%2F06%2Fshutterstock_1006988770.png&f=1&nofb=1","price":10,"category":"horror","createdAt":"2022-05-13T09:10:58.503Z","id":"fvk50kl347z83s"}]
+[
+  {
+    "description": "shoes",
+    "brand": "adidas",
+    "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.howtogeek.com%2Fthumbcache%2F2%2F200%2F40e2879242a0f643e552094ec70ad8e9%2Fwp-content%2Fuploads%2F2018%2F06%2Fshutterstock_1006988770.png&f=1&nofb=1",
+    "price": 10,
+    "category": "Thriller",
+    "createdAt": "2022-05-13T09:09:14.837Z",
+    "id": "fvk8ocl347x045",
+    "name": "Leon",
+    "updatedAt": "2022-05-13T09:21:47.913Z",
+    "reviews": [
+      {
+        "comment": "Olyanka",
+        "rate": 1,
+        "productId": "fvk8ocl347x045",
+        "updatedAt": "2022-05-13T11:36:09.765Z"
+      }
+    ]
+  },
+  {
+    "name": "Olu",
+    "description": "shoes",
+    "brand": "nike",
+    "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.howtogeek.com%2Fthumbcache%2F2%2F200%2F40e2879242a0f643e552094ec70ad8e9%2Fwp-content%2Fuploads%2F2018%2F06%2Fshutterstock_1006988770.png&f=1&nofb=1",
+    "price": 10,
+    "category": "horror",
+    "reviews": [
+      {
+        "comment": "Rasmus",
+        "rate": 1,
+        "productId": "fvk8ocl347x045",
+        "updatedAt": "2022-05-13T12:00:19.862Z"
+      },
+      {
+        "comment": "Rasmus",
+        "rate": 1,
+        "productId": "fvk8ocl347x045",
+        "updatedAt": "2022-05-13T12:02:21.098Z",
+        "reviewId": "2ar5wzk4fhl34e3m7f"
+      }
+    ],
+    "createdAt": "2022-05-13T11:33:36.273Z",
+    "id": "2ar5wzk40nl34d2nbl"
+  },
+  {
+    "name": "Olu",
+    "description": "shoes",
+    "brand": "nike",
+    "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.howtogeek.com%2Fthumbcache%2F2%2F200%2F40e2879242a0f643e552094ec70ad8e9%2Fwp-content%2Fuploads%2F2018%2F06%2Fshutterstock_1006988770.png&f=1&nofb=1",
+    "price": 10,
+    "category": "horror",
+    "reviews": [
+      {
+        "comment": "Rasmus",
+        "rate": 1,
+        "productId": "2ar5wzk40nl34d2nr4",
+        "updatedAt": "2022-05-13T12:05:30.572Z",
+        "reviewId": "2ar5wzk4fhl34e7oek"
+      },
+      {
+        "comment": "Rasmus500",
+        "rate": 5,
+        "productId": "2ar5wzk40nl34d2nr4",
+        "updatedAt": "2022-05-13T12:23:31.616Z",
+        "reviewId": "2ar5wzk4oml34euujl"
+      }
+    ],
+    "createdAt": "2022-05-13T11:33:36.832Z",
+    "id": "2ar5wzk40nl34d2nr4"
+  }
+]
